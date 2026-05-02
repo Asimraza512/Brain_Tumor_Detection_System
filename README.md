@@ -109,4 +109,10 @@ Evaluation using:
     ROC Curve
 
 
+📊 Results
 
+Achieved good accuracy on MRI dataset
+
+Model performs well in distinguishing tumor vs non-tumor cases
+
+Confidence score provided for each prediction
