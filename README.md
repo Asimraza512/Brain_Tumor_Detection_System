@@ -116,3 +116,16 @@ Achieved good accuracy on MRI dataset
 Model performs well in distinguishing tumor vs non-tumor cases
 
 Confidence score provided for each prediction
+
+
+🌐 Web App Workflow
+
+User uploads MRI image
+
+Flask backend receives image
+
+Image is processed and resized (224x224)
+
+Model predicts tumor type
+
+Result + confidence shown on UI
