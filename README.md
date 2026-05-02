@@ -7,9 +7,15 @@ This project is a Brain Tumor Detection System that uses Deep Learning (VGG16 tr
 It predicts whether a brain MRI scan contains a tumor and identifies its type with confidence score.
 
 🚀 Features
+
 🧠 Detects brain tumor from MRI images
+
 🤖 Deep Learning model using VGG16 (Transfer Learning)
+
 🌐 Web-based interface using Flask
+
 📊 Shows prediction with confidence score
+
 📁 Supports image upload from user
+
 🔄 Automatic model download from Google Drive (if not available locally)
