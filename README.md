@@ -6,6 +6,7 @@ This project is a Brain Tumor Detection System that uses Deep Learning (VGG16 tr
 
 It predicts whether a brain MRI scan contains a tumor and identifies its type with confidence score.
 
+
 🚀 Features
 
 🧠 Detects brain tumor from MRI images
