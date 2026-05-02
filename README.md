@@ -63,3 +63,24 @@ HTML
 CSS
 
 JavaScript
+
+
+
+
+🏗️ Model Architecture
+
+Base Model: VGG16 (ImageNet weights)
+
+Custom Layers:
+
+Flatten layer
+
+Dense (128 neurons, ReLU)
+
+Dropout layers
+
+Softmax output layer
+
+Loss Function: Categorical Crossentropy
+
+Optimizer: Adam (lr = 0.0001)
