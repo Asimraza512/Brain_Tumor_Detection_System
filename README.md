@@ -84,3 +84,14 @@ Softmax output layer
 Loss Function: Categorical Crossentropy
 
 Optimizer: Adam (lr = 0.0001)
+
+
+
+🚀 How to Run Project
+
+python app.py
+
+Open Browser
+
+http://127.0.0.1:5000/
+
