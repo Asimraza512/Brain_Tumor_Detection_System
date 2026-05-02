@@ -35,3 +35,31 @@ Meningioma Tumor
 Pituitary Tumor
 
 No Tumor
+
+
+
+⚙️ Tech Stack
+
+🔹 Deep learning / AI
+
+Python
+
+TensorFlow / Keras
+
+VGG16 (Pretrained Model)
+
+NumPy
+
+Scikit-learn
+
+Matplotlib & Seaborn
+
+🔹 Web Development
+
+Flask (Backend)
+
+HTML
+
+CSS
+
+JavaScript
