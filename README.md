@@ -91,7 +91,22 @@ Optimizer: Adam (lr = 0.0001)
 
 python app.py
 
-Open Browser
 
-http://127.0.0.1:5000/
+🧪 Model Training Summary
+
+Image Size: 224x224
+
+Batch Size: 12
+
+Epochs: 10
+
+Training includes image augmentation (brightness + contrast)
+
+Evaluation using:
+
+    Confusion Matrix
+    Classification Report
+    ROC Curve
+
+
 
